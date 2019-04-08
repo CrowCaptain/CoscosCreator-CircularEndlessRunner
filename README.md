@@ -1,0 +1,2 @@
+# CoscosCreator-CircularEndlessRunner
+使用CoscosCreator实现CircularEndlessRunner小游戏
